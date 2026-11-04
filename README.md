@@ -19,5 +19,9 @@ Background: Bob has a large family that is very spread out so for arranging even
 
 # High level Funcitons
 
+- Persistant Messeging
+- Colour Themes
+- Threads
+
 
 
