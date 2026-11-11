@@ -23,5 +23,9 @@ Background: Bob has a large family that is very spread out so for arranging even
 - Colour Themes
 - Threads
 
+# Initial Spec
+
+The rough overview of this project is a messiging board allowing users to create forums, manage them and reply within the forum.
+The users would like data to be retained through sessions, quick to update, internal threads and different colour schemes.
 
 
