@@ -4,6 +4,8 @@
 --[Profile One](#profile-one)<br>
 --[Profile Two](#profile-two)<br>
 [High Level Functions](#high-level-funcitons)<br>
+[Initial Scope](#initial-spec)<br>
+[Task List](#task-list)<br>
 # Userprofiles
 ## Profile One
 
@@ -29,3 +31,12 @@ The rough overview of this project is a messiging board allowing users to create
 The users would like data to be retained through sessions, quick to update, internal threads and different colour schemes.
 
 
+## Task List
+
+- Persistant Messeging
+    - Decide on a database format
+- UI
+    - Flask
+    - Atleast a light and dark theme (pref not black and white so check contrast of chosen colours)
+- Threads (EF)
+    -In side a messeging bored the ability to reply and start a side conversation
